@@ -1,104 +1,59 @@
 {
     "apps": [
         {
-            "name": "Bazarr",
-            "url": "subs.example.com",
-            "icon": "message-video"
+            "name": "GDrive",
+            "url": "d.realyami.in",
+            "icon": "google-drive"
         },
         {
-            "name": "CloudCMD",
-            "url": "files.example.com",
-            "icon": "folder-multiple-outline"
+            "name": "Youtube",
+            "url": "yt.realyami.in",
+            "icon": "youtube"
         },
         {
-            "name": "Cockpit",
-            "url": "cp.example.com",
-            "icon": "airplane"
+            "name": "Anime",
+            "url": "stream.realyami.in",
+            "icon": "play"
         },
         {
-            "name": "Feedbin",
-            "url": "rss.example.com",
-            "icon": "rss"
+            "name": "Reddit",
+            "url": "reddit.realyami.in",
+            "icon": "reddit"
         },
         {
-            "name": "Filestash",
-            "url": "cloud.example.com",
-            "icon": "package"
+            "name": "Manga",
+            "url": "manga.realyami.in",
+            "icon": "book"
         },
         {
-            "name": "Jackett",
-            "url": "jackett.example.com",
-            "icon": "tshirt-crew-outline"
+            "name": "OneDrive",
+            "url": "yamidrive.vercel.app",
+            "icon": "onedrive"
         },
         {
-            "name": "Lidarr",
-            "url": "music.example.com",
-            "icon": "music"
+            "name": "Adolla",
+            "url": "m.realyami.in",
+            "icon": "book-open"
         },
         {
-            "name": "Minio",
-            "url": "minio.example.com",
+            "name": "Adult--",
+            "url": "p.realyami.in",
             "icon": "server"
         },
         {
-            "name": "Mylar",
-            "url": "comics.example.com",
-            "icon": "book-open-variant"
-        },
-        {
-            "name": "Nextcloud",
-            "url": "cloud.example.com",
-            "icon": "weather-cloudy"
-        },
-        {
-            "name": "Ombi",
-            "url": "request.example.com",
-            "icon": "file-find-outline"
-        },
-        {
-            "name": "Pi-hole",
-            "url": "pihole.example.com",
-            "icon": "do-not-disturb"
+            "name": "Saikou-web",
+            "url": "saikou.realyami.in",
+            "icon": "player"
         },
         {
             "name": "Plex",
-            "url": "play.example.com",
+            "url": "app.plex.tv",
             "icon": "plex"
         },
         {
-            "name": "Portainer",
-            "url": "port1.example.com",
-            "icon": "docker"
-        },
-        {
-            "name": "Radarr",
-            "url": "movies.example.com",
-            "icon": "filmstrip"
-        },
-        {
-            "name": "Sonarr",
-            "url": "tv.example.com",
-            "icon": "television-box"
-        },
-        {
-            "name": "Stackedit",
-            "url": "md.example.com",
-            "icon": "markdown"
-        },
-        {
-            "name": "Transmission",
-            "url": "dl.example.com",
-            "icon": "progress-download"
-        },
-        {
-            "name": "Ubooquity",
-            "url": "opds.example.com",
-            "icon": "library-shelves"
-        },
-        {
-            "name": "Youtube-DL",
-            "url": "yt.example.com",
-            "icon": "youtube"
+            "name": "name",
+            "url": "beatbump.ml",
+            "icon": "music"
         }
     ]
 }
