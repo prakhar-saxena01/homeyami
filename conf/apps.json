@@ -54,6 +54,11 @@
             "name": "music",
             "url": "beatbump.ml",
             "icon": "music"
+        },
+        {
+            "name": "anilist",
+            "url": "anilist.co/user/ibh01",
+            "icon": "tv"
         }
     ]
 }
