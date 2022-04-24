@@ -13,7 +13,7 @@
         {
             "name": "Anime",
             "url": "stream.realyami.in",
-            "icon": "play"
+            "icon": "tv"
         },
         {
             "name": "Reddit",
@@ -43,7 +43,7 @@
         {
             "name": "Saikou-web",
             "url": "saikou.realyami.in",
-            "icon": "player"
+            "icon": "play"
         },
         {
             "name": "Plex",
@@ -51,9 +51,14 @@
             "icon": "plex"
         },
         {
-            "name": "name",
+            "name": "music",
             "url": "beatbump.ml",
             "icon": "music"
+        }
+        {
+            "name": "anilist",
+            "url": "anilist.co/user/ibh01",
+            "icon": "play"
         }
     ]
 }
